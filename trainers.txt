@@ -1,0 +1,4 @@
+000#Grant Morris#2222 E Cinnabar Ave, Phoenix AZ#grantm958@gmail.com
+001#John Smith #123 Main St, Anytown, USA#john.smith@email.com
+002#Sarah Johnson#456 High St, Othertown, USA#sarah.johnson@email.com
+003#Lisa Brown#789 Park Ave, Cityville, USA#lisa.brown@email.com
